@@ -1,5 +1,5 @@
 {
-    "name": "zeenomlabs/test_pakage",
+    "name": "zeenomlabs/helloworld",
     "description": "this is a test pakage by zeenomlabs",
     "type": "library",
     "require": {
@@ -12,7 +12,7 @@
             "email": "nomantufail100@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/",
