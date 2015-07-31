@@ -1,5 +1,5 @@
 {
-    "name": "zeenomlabs/helloworld",
+    "name": "nomantufail/helloworld",
     "description": "this is a test pakage by zeenomlabs",
     "type": "library",
     "require": {
