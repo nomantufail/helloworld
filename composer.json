@@ -1,0 +1,22 @@
+{
+    "name": "zeenomlabs/test_pakage",
+    "description": "this is a test pakage by zeenomlabs",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "zeenomlabs",
+    "authors": [
+        {
+            "name": "noman tufail",
+            "email": "nomantufail100@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/",
+            "MyNameSpace": "src/"
+        }
+    }
+}
